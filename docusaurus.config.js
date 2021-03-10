@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/isologotipoAsset4.png',
-  organizationName: 'Alynk S.A.', // Usually your GitHub org/user name.
+  organizationName: 'GonzaloSecades', // Usually your GitHub org/user name.
   projectName: 'Alynk app Docs', // Usually your repo name.
   themeConfig: {
     navbar: {
